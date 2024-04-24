@@ -1,7 +1,7 @@
 # Hack The Crisis - Lung Diagnosis Tool
 
 ## Overview
-This repository contains the trained machine learning model developed during the "Hack The Crisis" hackathon. The project focuses on the automatic diagnosis of lung abnormalities, specifically identifying signs of COVID-19 and pneumonia in X-ray images.
+This repository contains the trained deep learning model developed during the "Hack The Crisis" hackathon. The project focuses on the automatic diagnosis of lung abnormalities, specifically identifying signs of COVID-19 and pneumonia in X-ray images.
 
 ## Model Description
 The included notebook showcases the potential accuracy of our trained model in diagnosing lung changes from X-ray scans. This model leverages advanced machine learning techniques to assist healthcare professionals by providing rapid and accurate assessments.
